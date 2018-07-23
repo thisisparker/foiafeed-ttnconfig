@@ -17,8 +17,9 @@ def check(article):
     # Rules that do not require a BeautifulSoup parse:
     # Exclude articles in LAT "Essential Politics" feed
     # (which shows multiple articles on a single page)
-    if article.outlet == 'LA Times' and '/politics/essential/' in article.url:
-        blocked = True
+    if article.outlet == 'LA Times':
+        if '/opinion/' in article.url or '/politics/essential/' in article.url:
+            blocked = True
 
     # Exclude articles from WaPo's "202" newsletter series.
     # Headline and content don't match well
