@@ -126,6 +126,12 @@
         "redirectLinks": false
     },
     {
+        "url": "https://theappeal.org/feed/",
+        "outlet": "The Appeal",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
         "url": "http://feedshack.biz/ap_rss.xml",
         "outlet": "Associated Press",
         "delicateURLs": false,
