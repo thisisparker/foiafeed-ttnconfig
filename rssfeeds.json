@@ -1,5 +1,11 @@
 [
     {
+        "url": "http://www.baltimoresun.com/news/maryland/rss2.0.xml",
+        "outlet": "Baltimore Sun",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
         "url": "https://www.buzzfeed.com/usnews.xml",
         "outlet": "Buzzfeed",
         "delicateURLs": false,
@@ -74,12 +80,6 @@
     {
         "url": "https://gizmodo.com/rss",
         "outlet": "Gizmodo",
-        "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
-        "url": "http://www.miamiherald.com/news/politics-government/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "outlet": "Miami Herald",
         "delicateURLs": false,
         "redirectLinks": false
     },
