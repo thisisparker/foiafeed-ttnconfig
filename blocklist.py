@@ -26,4 +26,9 @@ def check(article):
     if article.outlet == 'Washington Post' and '202' in article.title:
         blocked = True
 
+    # Exclude links to ProPublica's URL tracking service, which should be
+    # redirected but may not in some cases.
+    if 'tracking.feedpress.it' in article.url:
+        blocked = True
+
     return blocked
