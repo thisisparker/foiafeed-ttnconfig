@@ -114,20 +114,8 @@
         "redirectLinks": false
     },
     {
-        "url": "http://www.mcclatchydc.com/news/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "outlet": "McClatchyDC",
-        "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
         "url": "https://motherboard.vice.com/en_us/rss",
         "outlet": "Motherboard",
-        "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
-        "url": "https://theappeal.org/feed/",
-        "outlet": "The Appeal",
         "delicateURLs": false,
         "redirectLinks": false
     },
