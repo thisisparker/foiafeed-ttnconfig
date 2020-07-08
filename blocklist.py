@@ -28,7 +28,7 @@ def check(article):
 
     # Exclude links to ProPublica's URL tracking service, which should be
     # redirected but may not in some cases.
-    if 'tracking.feedpress.it' in article.url:
+    if 'tracking.feedpress' in article.url:
         blocked = True
 
     return blocked
