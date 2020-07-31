@@ -124,5 +124,10 @@
         "outlet": "Associated Press",
         "delicateURLs": false,
         "redirectLinks": false
+    },
+    {	"url": "https://themarkup.org/feeds/rss.xml",
+	"outlet": "The Markup",
+	"delicateURLs": false,
+	"redirectLinks": false
     }
 ]
