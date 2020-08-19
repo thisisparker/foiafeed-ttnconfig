@@ -6,18 +6,6 @@
         "redirectLinks": false
     },
     {
-        "url": "https://www.buzzfeed.com/usnews.xml",
-        "outlet": "Buzzfeed",
-        "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
-        "url": "https://www.buzzfeed.com/jasonleopold.xml",
-        "outlet": "Buzzfeed",
-        "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
         "url": "http://feeds.washingtonpost.com/rss/national",
         "outlet": "Washington Post",
         "delicateURLs": false,
