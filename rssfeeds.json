@@ -117,5 +117,11 @@
 	"outlet": "The Markup",
 	"delicateURLs": false,
 	"redirectLinks": false
+    },
+    {
+        "url": "https://www.buzzfeednews.com/news.xml",
+        "outlet": "BuzzFeed News",
+        "delicateURLs": false,
+        "redirectLinks": false
     }
 ]
